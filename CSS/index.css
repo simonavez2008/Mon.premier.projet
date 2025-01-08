@@ -1,0 +1,96 @@
+*{
+    font-family: Garamond;
+}
+
+body{
+    background-color: #9c9c9c;
+}
+
+main{
+    width: 75%;
+    margin: 0 auto;
+    border: 20px  brown solid;
+    border-radius: 5%;
+    padding: top 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #4d4d4d;
+}
+
+h1{
+    font-size: 60px;
+    text-shadow: 5px 5px 5px brown;
+    color: #FFAF51;
+}
+
+h2{
+    text-shadow: 2px 2px brown ;
+    color: #FFAF51;
+}
+
+h3{
+    color: #9c9c9c;
+}
+
+.ulParticul{
+    background-color: #9c9c9c;
+}
+
+.ulParticul li a{
+    text-decoration: none;
+    color: #FFAF51;
+}
+.ulParticul li {
+    list-style-type: none;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.divParticul{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pParticul{
+    justify-content: 80%;
+    color: #9c9c9c;
+}
+
+.imgParticul{
+    position: relative;
+    top: 50px;
+}
+
+.divParticul2{
+    margin-bottom: 10px;
+    border-bottom: 2px brown solid;
+    padding-bottom: 10px;
+}
+
+.divParticulG{
+    width: 30%;
+    border-right: 2px brown solid;
+}
+.divParticulG ul li{
+    color: #FFAF51;
+    list-style-image:url(../images/Csa.png) ;
+}
+
+.divParticulD{
+    width: 60%;
+    padding: 15px;
+    background-color: black;
+    color: #9c9c9c;
+    box-shadow: #A0A0A0 5px 5px 5px  ; 
+    border-radius: 5%;
+    text-align: left;
+}
+
+.divParticulB {
+    width: 20%;
+}
+
+.divParticulB{
+    color: #FFAF51;
+}
